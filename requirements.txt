@@ -1,0 +1,11 @@
+jupyter
+jupyterlab
+matplotlib
+nltk
+notebook
+numpy
+pandas
+scikit-learn
+scipy
+tensorflow
+tornado
